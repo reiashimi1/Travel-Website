@@ -1,0 +1,30 @@
+.tableshadow {
+  box-shadow: 10px 10px 5px #999;
+  padding-top: 40px;
+  border: solid 1px darkgray;
+  overflow: scroll;
+}
+.lefttxt {
+  padding-left: 30px;
+  font-size: 16px;
+  color: dimgray;
+}
+.toptd {
+  color: white;
+  font-size: 24px;
+  text-align: center;
+  height: 40px;
+  background-color: darkgray;
+}
+.darkGrayBg {
+  color: white;
+  font-size: 24px;
+  text-align: center;
+  height: 40px;
+  background-color: darkgray;
+}
+.lefttext {
+  padding-left: 30px;
+  font-size: 16px;
+  color: dimgray;
+}
